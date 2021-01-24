@@ -1,0 +1,48 @@
+@import 'scss/textos';
+@import 'scss/colores';
+@import 'scss/fondos';
+
+@media only screen and (max-width:800px) {
+    
+.carousel-caption {
+    padding: initial
+}
+}
+    @media only screen and (max-width:800px) {
+        
+        .encabezado {
+            font-size: 1.5em;
+            background-color:$color-secundary;
+            color:$color-primary;
+            text-align: initial;
+        
+
+
+        }
+    }
+
+    @media only screen and (max-width:800px) {
+        .subtitulo {
+             font-size: 1.00em;
+             background-color: $color-secundary;
+             color: $color-primary;
+            
+             
+        }
+
+    }
+
+    @media only screen and (max-width:800px) {
+        .titulo2 {
+        color:$color-secundary;
+        background-color: $color-primary;
+         
+        }
+    }
+
+  
+    @media only screen and (max-width:800px) {
+        .s-nos{
+        white-space: normal;
+    }
+}

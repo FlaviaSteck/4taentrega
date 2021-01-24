@@ -1,0 +1,65 @@
+@import 'scss/colores';
+
+.carousel-caption {
+    position: absolute; 
+    padding: 10px 10px 200px 15px;
+  
+    
+}
+.encabezado{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:$color-primary;
+    font-size: 5em;
+}
+
+.subtitulo{
+    
+    font-size: 2rem;
+    color:$color-primary;
+ }
+
+
+
+
+.s-nos{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color :$color-secundary;
+    font-size: 100%;
+    text-align: center;
+    white-space: pre;
+  
+}
+
+.subtitulo2{
+    color: $color-primary;
+    font-size: 160%;
+   
+  
+   
+}
+
+
+.contacto{
+    .datos {
+        color: $color-primary;
+      
+      
+    }
+ 
+   
+}
+.p1{
+    color: $color-primary;
+}
+
+.datos1{
+    font-family:sans-serif;
+    color:$color-primary;
+    text-align: center;
+}
+
+
+.button1{
+    color: $color-3;
+}
+

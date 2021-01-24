@@ -1,0 +1,78 @@
+.carousel-caption {
+  position: absolute;
+  padding: 10px 10px 200px 15px; }
+
+.encabezado {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: black;
+  font-size: 5em; }
+
+.subtitulo {
+  font-size: 2rem;
+  color: black; }
+
+.s-nos {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  font-size: 100%;
+  text-align: center;
+  white-space: pre; }
+
+.subtitulo2 {
+  color: black;
+  font-size: 160%; }
+
+.contacto .datos {
+  color: black; }
+
+.p1 {
+  color: black; }
+
+.datos1 {
+  font-family: sans-serif;
+  color: black;
+  text-align: center; }
+
+.button1 {
+  color: #deb887; }
+
+.card {
+  background: #deb887; }
+
+body {
+  background-image: url("https://img.freepik.com/foto-gratis/fondo-superficie-madera-blanca_23-2148067132.jpg?size=626&ext=jpg"); }
+
+.navbar, .subtitulo {
+  background-color: #deb887; }
+
+.datos1, .subtitulo2 {
+  background-color: #deb887; }
+
+.button1 {
+  background-color: black; }
+
+@media only screen and (max-width: 800px) {
+  .carousel-caption {
+    padding: initial; } }
+
+@media only screen and (max-width: 800px) {
+  .encabezado {
+    font-size: 1.5em;
+    background-color: white;
+    color: black;
+    text-align: initial; } }
+
+@media only screen and (max-width: 800px) {
+  .subtitulo {
+    font-size: 1.00em;
+    background-color: white;
+    color: black; } }
+
+@media only screen and (max-width: 800px) {
+  .titulo2 {
+    color: white;
+    background-color: black; } }
+
+@media only screen and (max-width: 800px) {
+  .s-nos {
+    white-space: normal; } }
